@@ -2,7 +2,7 @@
 
 Binôme :
 * Ludovic HU
-* Jeanne VILLETTE
+* Jun VILLETTE
 
 ## Syntaxe MarkDown
 
